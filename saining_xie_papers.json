@@ -1,0 +1,159 @@
+{
+  "author": {
+    "authorId": "2324769373",
+    "name": "Saining Xie"
+  },
+  "author_id": "2324769373",
+  "publications": [
+    {
+      "title": "Science-T2I: Addressing Scientific Illusions in Image Synthesis",
+      "year": 2025,
+      "authors": "Jialuo Li, Wenhao Chai, Xingyu Fu, Haiyang Xu, Saining Xie",
+      "citations": 15,
+      "url": "https://www.semanticscholar.org/paper/1b4094f5c0aa073b4f1d50b731722474a716c4c6",
+      "arxiv_id": "2504.13129",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2504-13129",
+        "ArXiv": "2504.13129",
+        "DOI": "10.1109/CVPR52734.2025.00261",
+        "CorpusId": 277857006
+      },
+      "paperId": "1b4094f5c0aa073b4f1d50b731722474a716c4c6"
+    },
+    {
+      "title": "Scaling Inference Time Compute for Diffusion Models",
+      "year": 2025,
+      "authors": "Nanye Ma, Shangyuan Tong, Haolin Jia, Hexiang Hu, Yu-Chuan Su",
+      "citations": 33,
+      "url": "https://www.semanticscholar.org/paper/3efbf8a4c5d4b5346a33c47ddd4f9391bdf621e5",
+      "arxiv_id": null,
+      "externalIds": {
+        "DBLP": "conf/cvpr/MaTJHSZYLJJX25",
+        "DOI": "10.1109/CVPR52734.2025.00241",
+        "CorpusId": 280016344
+      },
+      "paperId": "3efbf8a4c5d4b5346a33c47ddd4f9391bdf621e5"
+    },
+    {
+      "title": "FrontierCS: Evolving Challenges for Evolving Intelligence",
+      "year": 2025,
+      "authors": "Qiuyang Mang, Wenhao Chai, Zhifei Li, Huanzhi Mao, Shang Zhou",
+      "citations": 10,
+      "url": "https://www.semanticscholar.org/paper/43e3b82bb3f6d4b6b6dedce5901743ef7cf14790",
+      "arxiv_id": "2512.15699",
+      "externalIds": {
+        "ArXiv": "2512.15699",
+        "DBLP": "journals/corr/abs-2512-15699",
+        "DOI": "10.48550/arXiv.2512.15699",
+        "CorpusId": 283920602
+      },
+      "paperId": "43e3b82bb3f6d4b6b6dedce5901743ef7cf14790"
+    },
+    {
+      "title": "BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing",
+      "year": 2025,
+      "authors": "Jiacheng Chen, Ramin Mehran, Xuhui Jia, Saining Xie, Sanghyun Woo",
+      "citations": 3,
+      "url": "https://www.semanticscholar.org/paper/724e9ee4601e45cf74100e62760951ac4bffea42",
+      "arxiv_id": "2506.17450",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-17450",
+        "ArXiv": "2506.17450",
+        "DOI": "10.48550/arXiv.2506.17450",
+        "CorpusId": 280000251
+      },
+      "paperId": "724e9ee4601e45cf74100e62760951ac4bffea42"
+    },
+    {
+      "title": "Next-Embedding Prediction Makes Strong Vision Learners",
+      "year": 2025,
+      "authors": "Sihan Xu, Ziqiao Ma, Wenhao Chai, Xuweiyi Chen, Wei Jin",
+      "citations": 10,
+      "url": "https://www.semanticscholar.org/paper/7fb0074a6f1e89d0065c01eeb122fa8c68a9fffa",
+      "arxiv_id": "2512.16922",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2512-16922",
+        "ArXiv": "2512.16922",
+        "DOI": "10.48550/arXiv.2512.16922",
+        "CorpusId": 283933653
+      },
+      "paperId": "7fb0074a6f1e89d0065c01eeb122fa8c68a9fffa"
+    },
+    {
+      "title": "Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps",
+      "year": 2025,
+      "authors": "Nanye Ma, Shangyuan Tong, Haolin Jia, Hexiang Hu, Yu-Chuan Su",
+      "citations": 210,
+      "url": "https://www.semanticscholar.org/paper/9c8f548b85af8d3c861c9d97b6172c4ee44673d6",
+      "arxiv_id": "2501.09732",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2501-09732",
+        "ArXiv": "2501.09732",
+        "DOI": "10.48550/arXiv.2501.09732",
+        "CorpusId": 275570556
+      },
+      "paperId": "9c8f548b85af8d3c861c9d97b6172c4ee44673d6"
+    },
+    {
+      "title": "LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?",
+      "year": 2025,
+      "authors": "Zihan Zheng, Zerui Cheng, Zeyu Shen, Shang Zhou, Kaiyuan Liu",
+      "citations": 38,
+      "url": "https://www.semanticscholar.org/paper/e2e9530ab845cb26dfa5eb6c8a57378a43970b43",
+      "arxiv_id": "2506.11928",
+      "externalIds": {
+        "ArXiv": "2506.11928",
+        "DBLP": "journals/corr/abs-2506-11928",
+        "DOI": "10.48550/arXiv.2506.11928",
+        "CorpusId": 279392173
+      },
+      "paperId": "e2e9530ab845cb26dfa5eb6c8a57378a43970b43"
+    },
+    {
+      "title": "On Scaling Up 3D Gaussian Splatting Training",
+      "year": 2024,
+      "authors": "Hexu Zhao, Haoyang Weng, Daohan Lu, Ang Li, Jinyang Li",
+      "citations": 49,
+      "url": "https://www.semanticscholar.org/paper/472c1a267ca0a55e840651c94f421ddc58039bb6",
+      "arxiv_id": "2406.18533",
+      "externalIds": {
+        "ArXiv": "2406.18533",
+        "DBLP": "journals/corr/abs-2406-18533",
+        "DOI": "10.48550/arXiv.2406.18533",
+        "CorpusId": 270737971
+      },
+      "paperId": "472c1a267ca0a55e840651c94f421ddc58039bb6"
+    },
+    {
+      "title": "AuroraCap: Efficient, Performant Video Detailed Captioning and a New Benchmark",
+      "year": 2024,
+      "authors": "Wenhao Chai, Enxin Song, Yilun Du, Chenlin Meng, Vashisht Madhavan",
+      "citations": 122,
+      "url": "https://www.semanticscholar.org/paper/5c048efd1c02937f93de36ccdd7d81cdf222f891",
+      "arxiv_id": "2410.03051",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2410-03051",
+        "ArXiv": "2410.03051",
+        "DOI": "10.48550/arXiv.2410.03051",
+        "CorpusId": 273162259
+      },
+      "paperId": "5c048efd1c02937f93de36ccdd7d81cdf222f891"
+    },
+    {
+      "title": "Fast Encoding and Decoding for Implicit Video Representation",
+      "year": 2024,
+      "authors": "Hao Chen, Saining Xie, Ser-Nam Lim, Abhinav Shrivastava",
+      "citations": 10,
+      "url": "https://www.semanticscholar.org/paper/bafc53ea3d677a09182b15ac6ea4ec37dabb8b0a",
+      "arxiv_id": "2409.19429",
+      "externalIds": {
+        "DBLP": "conf/eccv/ChenXLS24",
+        "ArXiv": "2409.19429",
+        "DOI": "10.1007/978-3-031-72933-1_23",
+        "CorpusId": 272987870
+      },
+      "paperId": "bafc53ea3d677a09182b15ac6ea4ec37dabb8b0a"
+    }
+  ],
+  "total_papers": 10
+}

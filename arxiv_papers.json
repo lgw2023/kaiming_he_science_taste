@@ -1,0 +1,669 @@
+{
+  "total": 83,
+  "papers": [
+    {
+      "title": "Image Sculpting: Precise Object Editing with 3D Geometry Control",
+      "year": "2024",
+      "authors": "Jiraphon Yenphraphai, Xichen Pan, Sainan Liu, Daniele Panozzo, Saining Xie",
+      "arxiv_id": "2401.01702v1",
+      "summary": "We present Image Sculpting, a new framework for editing 2D images by incorporating tools from 3D geometry and graphics. This approach differs markedly from existing methods, which are confined to 2D s...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Aggregated Residual Transformations for Deep Neural Networks",
+      "year": "2016",
+      "authors": "Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, Kaiming He",
+      "arxiv_id": "1611.05431v2",
+      "summary": "We present a simple, highly modularized network architecture for image classification. Our network is constructed by repeating a building block that aggregates a set of transformations with the same t...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Exploring Randomly Wired Neural Networks for Image Recognition",
+      "year": "2019",
+      "authors": "Saining Xie, Alexander Kirillov, Ross Girshick, Kaiming He",
+      "arxiv_id": "1904.01569v2",
+      "summary": "Neural networks for image recognition have evolved through extensive manual design from simple chain-like models to structures with multiple wiring paths. The success of ResNets and DenseNets is due i...",
+      "source": "arXiv"
+    },
+    {
+      "title": "ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders",
+      "year": "2023",
+      "authors": "Sanghyun Woo, Shoubhik Debnath, Ronghang Hu, Xinlei Chen, Zhuang Liu",
+      "arxiv_id": "2301.00808v1",
+      "summary": "Driven by improved architectures and better representation learning frameworks, the field of visual recognition has enjoyed rapid modernization and performance boost in the early 2020s. For example, m...",
+      "source": "arXiv"
+    },
+    {
+      "title": "V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs",
+      "year": "2023",
+      "authors": "Penghao Wu, Saining Xie",
+      "arxiv_id": "2312.14135v2",
+      "summary": "When we look around and perform complex tasks, how we see and selectively process what we see is crucial. However, the lack of this visual search mechanism in current multimodal LLMs (MLLMs) hinders t...",
+      "source": "arXiv"
+    },
+    {
+      "title": "SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers",
+      "year": "2024",
+      "authors": "Nanye Ma, Mark Goldstein, Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden",
+      "arxiv_id": "2401.08740v2",
+      "summary": "We present Scalable Interpolant Transformers (SiT), a family of generative models built on the backbone of Diffusion Transformers (DiT). The interpolant framework, which allows for connecting two dist...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Scalable Diffusion Models with Transformers",
+      "year": "2022",
+      "authors": "William Peebles, Saining Xie",
+      "arxiv_id": "2212.09748v2",
+      "summary": "We explore a new class of diffusion models based on the transformer architecture. We train latent diffusion models of images, replacing the commonly-used U-Net backbone with a transformer that operate...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Holistically-Nested Edge Detection",
+      "year": "2015",
+      "authors": "Saining Xie, Zhuowen Tu",
+      "arxiv_id": "1504.06375v2",
+      "summary": "We develop a new edge detection algorithm that tackles two important issues in this long-standing vision problem: (1) holistic image training and prediction; and (2) multi-scale and multi-level featur...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs",
+      "year": "2024",
+      "authors": "Shengbang Tong, Zhuang Liu, Yuexiang Zhai, Yi Ma, Yann LeCun",
+      "arxiv_id": "2401.06209v2",
+      "summary": "Is vision good enough for language? Recent advancements in multimodal models primarily stem from the powerful reasoning abilities of large language models (LLMs). However, the visual component typical...",
+      "source": "arXiv"
+    },
+    {
+      "title": "PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding",
+      "year": "2020",
+      "authors": "Saining Xie, Jiatao Gu, Demi Guo, Charles R. Qi, Leonidas J. Guibas",
+      "arxiv_id": "2007.10985v3",
+      "summary": "Arguably one of the top success stories of deep learning is transfer learning. The finding that pre-training a network on a rich source set (eg., ImageNet) can help boost performance once fine-tuned o...",
+      "source": "arXiv"
+    },
+    {
+      "title": "A ConvNet for the 2020s",
+      "year": "2022",
+      "authors": "Zhuang Liu, Hanzi Mao, Chao-Yuan Wu, Christoph Feichtenhofer, Trevor Darrell",
+      "arxiv_id": "2201.03545v2",
+      "summary": "The \"Roaring 20s\" of visual recognition began with the introduction of Vision Transformers (ViTs), which quickly superseded ConvNets as the state-of-the-art image classification model. A vanilla ViT, ...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Top-Down Learning for Structured Labeling with Convolutional Pseudoprior",
+      "year": "2015",
+      "authors": "Saining Xie, Xun Huang, Zhuowen Tu",
+      "arxiv_id": "1511.07409v2",
+      "summary": "Current practice in convolutional neural networks (CNN) remains largely bottom-up and the role of top-down process in CNN for pattern analysis and visual inference is not very clear. In this paper, we...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Exploring Long-Sequence Masked Autoencoders",
+      "year": "2022",
+      "authors": "Ronghang Hu, Shoubhik Debnath, Saining Xie, Xinlei Chen",
+      "arxiv_id": "2210.07224v1",
+      "summary": "Masked Autoencoding (MAE) has emerged as an effective approach for pre-training representations across multiple domains. In contrast to discrete tokens in natural languages, the input for image MAE is...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Masked Feature Prediction for Self-Supervised Visual Pre-Training",
+      "year": "2021",
+      "authors": "Chen Wei, Haoqi Fan, Saining Xie, Chao-Yuan Wu, Alan Yuille",
+      "arxiv_id": "2112.09133v2",
+      "summary": "We present Masked Feature Prediction (MaskFeat) for self-supervised pre-training of video models. Our approach first randomly masks out a portion of the input sequence and then predicts the feature of...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Diffusion Transformers with Representation Autoencoders",
+      "year": "2025",
+      "authors": "Boyang Zheng, Nanye Ma, Shengbang Tong, Saining Xie",
+      "arxiv_id": "2510.11690v1",
+      "summary": "Latent generative modeling, where a pretrained autoencoder maps pixels into a latent space for the diffusion process, has become the standard strategy for Diffusion Transformers (DiT); however, the au...",
+      "source": "arXiv"
+    },
+    {
+      "title": "REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers",
+      "year": "2025",
+      "authors": "Xingjian Leng, Jaskirat Singh, Yunzhong Hou, Zhenchang Xing, Saining Xie",
+      "arxiv_id": "2504.10483v3",
+      "summary": "In this paper we tackle a fundamental question: \"Can we train latent diffusion models together with the variational auto-encoder (VAE) tokenizer in an end-to-end manner?\" Traditional deep-learning wis...",
+      "source": "arXiv"
+    },
+    {
+      "title": "AutoCode: LLMs as Problem Setters for Competitive Programming",
+      "year": "2025",
+      "authors": "Shang Zhou, Zihan Zheng, Kaiyuan Liu, Zeyu Shen, Zerui Cheng",
+      "arxiv_id": "2510.12803v1",
+      "summary": "Writing competitive programming problems is exacting. Authors must: set constraints, input distributions, and edge cases that rule out shortcuts; target specific algorithms (e.g., max-flow, dynamic pr...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Fast Encoding and Decoding for Implicit Video Representation",
+      "year": "2024",
+      "authors": "Hao Chen, Saining Xie, Ser-Nam Lim, Abhinav Shrivastava",
+      "arxiv_id": "2409.19429v2",
+      "summary": "Despite the abundant availability and content richness for video data, its high-dimensionality poses challenges for video research. Recent advancements have explored the implicit representation for vi...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Scaling Language-Free Visual Representation Learning",
+      "year": "2025",
+      "authors": "David Fan, Shengbang Tong, Jiachen Zhu, Koustuv Sinha, Zhuang Liu",
+      "arxiv_id": "2504.01017v1",
+      "summary": "Visual Self-Supervised Learning (SSL) currently underperforms Contrastive Language-Image Pretraining (CLIP) in multimodal settings such as Visual Question Answering (VQA). This multimodal gap is often...",
+      "source": "arXiv"
+    },
+    {
+      "title": "SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training",
+      "year": "2025",
+      "authors": "Tianzhe Chu, Yuexiang Zhai, Jihan Yang, Shengbang Tong, Saining Xie",
+      "arxiv_id": "2501.17161v2",
+      "summary": "Supervised fine-tuning (SFT) and reinforcement learning (RL) are widely used post-training techniques for foundation models. However, their roles in enhancing model generalization capabilities remain ...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Transition Matching Distillation for Fast Video Generation",
+      "year": "2026",
+      "authors": "Weili Nie, Julius Berner, Nanye Ma, Chao Liu, Saining Xie",
+      "arxiv_id": "2601.09881v1",
+      "summary": "Large video diffusion and flow models have achieved remarkable success in high-quality video generation, but their use in real-time interactive applications remains limited due to their inefficient mu...",
+      "source": "arXiv"
+    },
+    {
+      "title": "MindCube: Spatial Mental Modeling from Limited Views",
+      "year": "2025",
+      "authors": "Qineng Wang, Baiqiao Yin, Pingyue Zhang, Jianshu Zhang, Kangrui Wang",
+      "arxiv_id": "2506.21458v2",
+      "summary": "Can Vision-Language Models (VLMs) imagine the full scene from just a few views, like humans do? Humans form spatial mental models naturally, internal representations of unseen space, to reason about l...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders",
+      "year": "2026",
+      "authors": "Shengbang Tong, Boyang Zheng, Ziteng Wang, Bingda Tang, Nanye Ma",
+      "arxiv_id": "2601.16208v1",
+      "summary": "Representation Autoencoders (RAEs) have shown distinct advantages in diffusion modeling on ImageNet by training in high-dimensional semantic latent spaces. In this work, we investigate whether this fr...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Are Labels Necessary for Neural Architecture Search?",
+      "year": "2020",
+      "authors": "Chenxi Liu, Piotr Dollár, Kaiming He, Ross Girshick, Alan Yuille",
+      "arxiv_id": "2003.12056v2",
+      "summary": "Existing neural network architectures in computer vision -- whether designed by humans or by machines -- were typically found using both images and their associated labels. In this paper, we ask the q...",
+      "source": "arXiv"
+    },
+    {
+      "title": "On Network Design Spaces for Visual Recognition",
+      "year": "2019",
+      "authors": "Ilija Radosavovic, Justin Johnson, Saining Xie, Wan-Yen Lo, Piotr Dollár",
+      "arxiv_id": "1905.13214v1",
+      "summary": "Over the past several years progress in designing better neural network architectures for visual recognition has been substantial. To help sustain this rate of progress, in this work we propose to ree...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Benchmarking Detection Transfer Learning with Vision Transformers",
+      "year": "2021",
+      "authors": "Yanghao Li, Saining Xie, Xinlei Chen, Piotr Dollar, Kaiming He",
+      "arxiv_id": "2111.11429v1",
+      "summary": "Object detection is a central downstream task used to test if pre-trained network parameters confer benefits, such as improved accuracy or training speed. The complexity of object detection methods ca...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Pri3D: Can 3D Priors Help 2D Representation Learning?",
+      "year": "2021",
+      "authors": "Ji Hou, Saining Xie, Benjamin Graham, Angela Dai, Matthias Nießner",
+      "arxiv_id": "2104.11225v3",
+      "summary": "Recent advances in 3D perception have shown impressive progress in understanding geometric structures of 3Dshapes and even scenes. Inspired by these advances in geometric understanding, we aim to imbu...",
+      "source": "arXiv"
+    },
+    {
+      "title": "On Interaction Between Augmentations and Corruptions in Natural Corruption Robustness",
+      "year": "2021",
+      "authors": "Eric Mintun, Alexander Kirillov, Saining Xie",
+      "arxiv_id": "2102.11273v2",
+      "summary": "Invariance to a broad array of image corruptions, such as warping, noise, or color shifts, is an important aspect of building robust models in computer vision. Recently, several new data augmentations...",
+      "source": "arXiv"
+    },
+    {
+      "title": "SLIP: Self-supervision meets Language-Image Pre-training",
+      "year": "2021",
+      "authors": "Norman Mu, Alexander Kirillov, David Wagner, Saining Xie",
+      "arxiv_id": "2112.12750v1",
+      "summary": "Recent work has shown that self-supervised pre-training leads to improvements over supervised learning on challenging visual recognition tasks. CLIP, an exciting new approach to learning with language...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Going Denser with Open-Vocabulary Part Segmentation",
+      "year": "2023",
+      "authors": "Peize Sun, Shoufa Chen, Chenchen Zhu, Fanyi Xiao, Ping Luo",
+      "arxiv_id": "2305.11173v1",
+      "summary": "Object detection has been expanded from a limited number of categories to open vocabulary. Moving forward, a complete intelligent vision system requires understanding more fine-grained object descript...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Deconstructing Denoising Diffusion Models for Self-Supervised Learning",
+      "year": "2024",
+      "authors": "Xinlei Chen, Zhuang Liu, Saining Xie, Kaiming He",
+      "arxiv_id": "2401.14404v1",
+      "summary": "In this study, we examine the representation learning abilities of Denoising Diffusion Models (DDM) that were originally purposed for image generation. Our philosophy is to deconstruct a DDM, graduall...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification",
+      "year": "2017",
+      "authors": "Saining Xie, Chen Sun, Jonathan Huang, Zhuowen Tu, Kevin Murphy",
+      "arxiv_id": "1712.04851v2",
+      "summary": "Despite the steady progress in video analysis led by the adoption of convolutional neural networks (CNNs), the relative improvement has been less drastic as that in 2D static image classification. Thr...",
+      "source": "arXiv"
+    },
+    {
+      "title": "V-IRL: Grounding Virtual Intelligence in Real Life",
+      "year": "2024",
+      "authors": "Jihan Yang, Runyu Ding, Ellis Brown, Xiaojuan Qi, Saining Xie",
+      "arxiv_id": "2402.03310v3",
+      "summary": "There is a sensory gulf between the Earth that humans inhabit and the digital realms in which modern AI agents are created. To develop AI agents that can sense, think, and act as flexibly as humans in...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Altogether: Image Captioning via Re-aligning Alt-text",
+      "year": "2024",
+      "authors": "Hu Xu, Po-Yao Huang, Xiaoqing Ellen Tan, Ching-Feng Yeh, Jacob Kahn",
+      "arxiv_id": "2410.17251v3",
+      "summary": "This paper focuses on creating synthetic data to improve the quality of image captions. Existing works typically have two shortcomings. First, they caption images from scratch, ignoring existing alt-t...",
+      "source": "arXiv"
+    },
+    {
+      "title": "BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset",
+      "year": "2025",
+      "authors": "Jiuhai Chen, Zhiyang Xu, Xichen Pan, Yushi Hu, Can Qin",
+      "arxiv_id": "2505.09568v1",
+      "summary": "Unifying image understanding and generation has gained growing attention in recent research on multimodal models. Although design choices for image understanding have been extensively studied, the opt...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Transfer between Modalities with MetaQueries",
+      "year": "2025",
+      "authors": "Xichen Pan, Satya Narayan Shukla, Aashu Singh, Zhuokai Zhao, Shlok Kumar Mishra",
+      "arxiv_id": "2504.06256v1",
+      "summary": "Unified multimodal models aim to integrate understanding (text output) and generation (pixel output), but aligning these different modalities within a single architecture often demands complex trainin...",
+      "source": "arXiv"
+    },
+    {
+      "title": "CLM: Removing the GPU Memory Barrier for 3D Gaussian Splatting",
+      "year": "2025",
+      "authors": "Hexu Zhao, Xiwen Min, Xiaoteng Liu, Moonjun Gong, Yiming Li",
+      "arxiv_id": "2511.04951v1",
+      "summary": "3D Gaussian Splatting (3DGS) is an increasingly popular novel view synthesis approach due to its fast rendering time, and high-quality output. However, scaling 3DGS to large (or intricate) scenes is c...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Benchmark Designers Should \"Train on the Test Set\" to Expose Exploitable Non-Visual Shortcuts",
+      "year": "2025",
+      "authors": "Ellis Brown, Jihan Yang, Shusheng Yang, Rob Fergus, Saining Xie",
+      "arxiv_id": "2511.04655v1",
+      "summary": "Robust benchmarks are crucial for evaluating Multimodal Large Language Models (MLLMs). Yet we find that models can ace many multimodal benchmarks without strong visual understanding, instead exploitin...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Next-Embedding Prediction Makes Strong Vision Learners",
+      "year": "2025",
+      "authors": "Sihan Xu, Ziqiao Ma, Wenhao Chai, Xuweiyi Chen, Weiyang Jin",
+      "arxiv_id": "2512.16922v2",
+      "summary": "Inspired by the success of generative pretraining in natural language, we ask whether the same principles can yield strong self-supervised visual learners. Instead of training models to output feature...",
+      "source": "arXiv"
+    },
+    {
+      "title": "What matters for Representation Alignment: Global Information or Spatial Structure?",
+      "year": "2025",
+      "authors": "Jaskirat Singh, Xingjian Leng, Zongze Wu, Liang Zheng, Richard Zhang",
+      "arxiv_id": "2512.10794v1",
+      "summary": "Representation alignment (REPA) guides generative training by distilling representations from a strong, pretrained vision encoder to intermediate diffusion features. We investigate a fundamental quest...",
+      "source": "arXiv"
+    },
+    {
+      "title": "LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?",
+      "year": "2025",
+      "authors": "Zihan Zheng, Zerui Cheng, Zeyu Shen, Shang Zhou, Kaiyuan Liu",
+      "arxiv_id": "2506.11928v1",
+      "summary": "Recent reports claim that large language models (LLMs) now outperform elite humans in competitive programming. Drawing on knowledge from a group of medalists in international algorithmic contests, we ...",
+      "source": "arXiv"
+    },
+    {
+      "title": "BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing",
+      "year": "2025",
+      "authors": "Jiacheng Chen, Ramin Mehran, Xuhui Jia, Saining Xie, Sanghyun Woo",
+      "arxiv_id": "2506.17450v2",
+      "summary": "We present BlenderFusion, a generative visual compositing framework that synthesizes new scenes by recomposing objects, camera, and background. It follows a layering-editing-compositing pipeline: (i) ...",
+      "source": "arXiv"
+    },
+    {
+      "title": "DiffusionGuard: A Robust Defense Against Malicious Diffusion-based Image Editing",
+      "year": "2024",
+      "authors": "June Suk Choi, Kyungmin Lee, Jongheon Jeong, Saining Xie, Jinwoo Shin",
+      "arxiv_id": "2410.05694v2",
+      "summary": "Recent advances in diffusion models have introduced a new era of text-guided image manipulation, enabling users to create realistic edited images with simple textual prompts. However, there is signifi...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Exploring Data-Efficient 3D Scene Understanding with Contrastive Scene Contexts",
+      "year": "2020",
+      "authors": "Ji Hou, Benjamin Graham, Matthias Nießner, Saining Xie",
+      "arxiv_id": "2012.09165v3",
+      "summary": "The rapid progress in 3D scene understanding has come with growing demand for data; however, collecting and annotating 3D scenes (e.g. point clouds) are notoriously hard. For example, the number of sc...",
+      "source": "arXiv"
+    },
+    {
+      "title": "CiT: Curation in Training for Effective Vision-Language Data",
+      "year": "2023",
+      "authors": "Hu Xu, Saining Xie, Po-Yao Huang, Licheng Yu, Russell Howes",
+      "arxiv_id": "2301.02241v1",
+      "summary": "Large vision-language models are generally applicable to many downstream tasks, but come at an exorbitant training cost that only large institutions can afford. This paper trades generality for effici...",
+      "source": "arXiv"
+    },
+    {
+      "title": "A Fistful of Words: Learning Transferable Visual Models from Bag-of-Words Supervision",
+      "year": "2021",
+      "authors": "Ajinkya Tejankar, Maziar Sanjabi, Bichen Wu, Saining Xie, Madian Khabsa",
+      "arxiv_id": "2112.13884v2",
+      "summary": "Using natural language as a supervision for training visual recognition models holds great promise. Recent works have shown that if such supervision is used in the form of alignment between images and...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs",
+      "year": "2024",
+      "authors": "Shengbang Tong, Ellis Brown, Penghao Wu, Sanghyun Woo, Manoj Middepogu",
+      "arxiv_id": "2406.16860v2",
+      "summary": "We introduce Cambrian-1, a family of multimodal LLMs (MLLMs) designed with a vision-centric approach. While stronger language models can enhance multimodal capabilities, the design choices for vision ...",
+      "source": "arXiv"
+    },
+    {
+      "title": "AuroraCap: Efficient, Performant Video Detailed Captioning and a New Benchmark",
+      "year": "2024",
+      "authors": "Wenhao Chai, Enxin Song, Yilun Du, Chenlin Meng, Vashisht Madhavan",
+      "arxiv_id": "2410.03051v4",
+      "summary": "Video detailed captioning is a key task which aims to generate comprehensive and coherent textual descriptions of video content, benefiting both video understanding and generation. In this paper, we p...",
+      "source": "arXiv"
+    },
+    {
+      "title": "PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop",
+      "year": "2025",
+      "authors": "Chenyu Li, Oscar Michel, Xichen Pan, Sainan Liu, Mike Roberts",
+      "arxiv_id": "2503.09595v1",
+      "summary": "Large-scale pre-trained video generation models excel in content creation but are not reliable as physically accurate world simulators out of the box. This work studies the process of post-training th...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Deeply-Supervised Nets",
+      "year": "2014",
+      "authors": "Chen-Yu Lee, Saining Xie, Patrick Gallagher, Zhengyou Zhang, Zhuowen Tu",
+      "arxiv_id": "1409.5185v2",
+      "summary": "Our proposed deeply-supervised nets (DSN) method simultaneously minimizes classification error while making the learning process of hidden layers direct and transparent. We make an attempt to boost th...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Meta CLIP 2: A Worldwide Scaling Recipe",
+      "year": "2025",
+      "authors": "Yung-Sung Chuang, Yang Li, Dong Wang, Ching-Feng Yeh, Kehan Lyu",
+      "arxiv_id": "2507.22062v3",
+      "summary": "Contrastive Language-Image Pretraining (CLIP) is a popular foundation model, supporting from zero-shot classification, retrieval to encoders for multimodal large language models (MLLMs). Although CLIP...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Self-Refining Video Sampling",
+      "year": "2026",
+      "authors": "Sangwon Jang, Taekyung Ki, Jaehyeong Jo, Saining Xie, Jaehong Yoon",
+      "arxiv_id": "2601.18577v1",
+      "summary": "Modern video generators still struggle with complex physical dynamics, often falling short of physical realism. Existing approaches address this using external verifiers or additional training on augm...",
+      "source": "arXiv"
+    },
+    {
+      "title": "GaussianLens: Localized High-Resolution Reconstruction via On-Demand Gaussian Densification",
+      "year": "2025",
+      "authors": "Yijia Weng, Zhicheng Wang, Songyou Peng, Saining Xie, Howard Zhou",
+      "arxiv_id": "2509.25603v1",
+      "summary": "We perceive our surroundings with an active focus, paying more attention to regions of interest, such as the shelf labels in a grocery store. When it comes to scene reconstruction, this human percepti...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps",
+      "year": "2025",
+      "authors": "Nanye Ma, Shangyuan Tong, Haolin Jia, Hexiang Hu, Yu-Chuan Su",
+      "arxiv_id": "2501.09732v1",
+      "summary": "Generative models have made significant impacts across various domains, largely due to their ability to scale during training by increasing data, computational resources, and model size, a phenomenon ...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Dynamic Test-Time Compute Scaling in Control Policy: Difficulty-Aware Stochastic Interpolant Policy",
+      "year": "2025",
+      "authors": "Inkook Chun, Seungjae Lee, Michael S. Albergo, Saining Xie, Eric Vanden-Eijnden",
+      "arxiv_id": "2511.20906v1",
+      "summary": "Diffusion- and flow-based policies deliver state-of-the-art performance on long-horizon robotic manipulation and imitation learning tasks. However, these controllers employ a fixed inference budget at...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Momentum Contrast for Unsupervised Visual Representation Learning",
+      "year": "2019",
+      "authors": "Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick",
+      "arxiv_id": "1911.05722v3",
+      "summary": "We present Momentum Contrast (MoCo) for unsupervised visual representation learning. From a perspective on contrastive learning as dictionary look-up, we build a dynamic dictionary with a queue and a ...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Graph Structure of Neural Networks",
+      "year": "2020",
+      "authors": "Jiaxuan You, Jure Leskovec, Kaiming He, Saining Xie",
+      "arxiv_id": "2007.06559v2",
+      "summary": "Neural networks are often represented as graphs of connections between neurons. However, despite their wide use, there is currently little understanding of the relationship between the graph structure...",
+      "source": "arXiv"
+    },
+    {
+      "title": "FBNetV2: Differentiable Neural Architecture Search for Spatial and Channel Dimensions",
+      "year": "2020",
+      "authors": "Alvin Wan, Xiaoliang Dai, Peizhao Zhang, Zijian He, Yuandong Tian",
+      "arxiv_id": "2004.05565v1",
+      "summary": "Differentiable Neural Architecture Search (DNAS) has demonstrated great success in designing state-of-the-art, efficient neural networks. However, DARTS-based DNAS's search space is small when compare...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Masked Autoencoders Are Scalable Vision Learners",
+      "year": "2021",
+      "authors": "Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Dollár",
+      "arxiv_id": "2111.06377v3",
+      "summary": "This paper shows that masked autoencoders (MAE) are scalable self-supervised learners for computer vision. Our MAE approach is simple: we mask random patches of the input image and reconstruct the mis...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis",
+      "year": "2025",
+      "authors": "Bingda Tang, Boyang Zheng, Xichen Pan, Sayak Paul, Saining Xie",
+      "arxiv_id": "2505.10046v1",
+      "summary": "This paper does not describe a new method; instead, it provides a thorough exploration of an important yet understudied design space related to recent advances in text-to-image synthesis -- specifical...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning",
+      "year": "2024",
+      "authors": "Yuexiang Zhai, Hao Bai, Zipeng Lin, Jiayi Pan, Shengbang Tong",
+      "arxiv_id": "2405.10292v3",
+      "summary": "Large vision-language models (VLMs) fine-tuned on specialized visual instruction-following data have exhibited impressive language reasoning capabilities across various scenarios. However, this fine-t...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think",
+      "year": "2024",
+      "authors": "Sihyun Yu, Sangkyung Kwak, Huiwon Jang, Jongheon Jeong, Jonathan Huang",
+      "arxiv_id": "2410.06940v4",
+      "summary": "Recent studies have shown that the denoising process in (generative) diffusion models can induce meaningful (discriminative) representations inside the model, though the quality of these representatio...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Cambrian-S: Towards Spatial Supersensing in Video",
+      "year": "2025",
+      "authors": "Shusheng Yang, Jihan Yang, Pinzhi Huang, Ellis Brown, Zihao Yang",
+      "arxiv_id": "2511.04670v1",
+      "summary": "We argue that progress in true multimodal intelligence calls for a shift from reactive, task-driven systems and brute-force long context towards a broader paradigm of supersensing. We frame spatial su...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Thinking in 360°: Humanoid Visual Search in the Wild",
+      "year": "2025",
+      "authors": "Heyang Yu, Yinan Han, Xiangyu Zhang, Baiqiao Yin, Bowen Chang",
+      "arxiv_id": "2511.20351v2",
+      "summary": "Humans rely on the synergistic control of head (cephalomotor) and eye (oculomotor) to efficiently search for visual information in 360°. However, prior approaches to visual search are limited to a sta...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Repurposing Geometric Foundation Models for Multi-view Diffusion",
+      "year": "2026",
+      "authors": "Wooseok Jang, Seonghu Jeon, Jisang Han, Jinhyeok Choi, Minkyung Kwon",
+      "arxiv_id": "2603.22275v1",
+      "summary": "While recent advances in generative latent spaces have driven substantial progress in single-image generation, the optimal latent space for novel view synthesis (NVS) remains largely unexplored. In pa...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Image Generators are Generalist Vision Learners",
+      "year": "2026",
+      "authors": "Valentin Gabeur, Shangbang Long, Songyou Peng, Paul Voigtlaender, Shuyang Sun",
+      "arxiv_id": "2604.20329v2",
+      "summary": "Recent works show that image and video generators exhibit zero-shot visual understanding behaviors, in a way reminiscent of how LLMs develop emergent capabilities of language understanding and reasoni...",
+      "source": "arXiv"
+    },
+    {
+      "title": "FrontierCS: Evolving Challenges for Evolving Intelligence",
+      "year": "2025",
+      "authors": "Qiuyang Mang, Wenhao Chai, Zhifei Li, Huanzhi Mao, Shang Zhou",
+      "arxiv_id": "2512.15699v1",
+      "summary": "We introduce FrontierCS, a benchmark of 156 open-ended problems across diverse areas of computer science, designed and reviewed by experts, including CS PhDs and top-tier competitive programming parti...",
+      "source": "arXiv"
+    },
+    {
+      "title": "MoDE: CLIP Data Experts via Clustering",
+      "year": "2024",
+      "authors": "Jiawei Ma, Po-Yao Huang, Saining Xie, Shang-Wen Li, Luke Zettlemoyer",
+      "arxiv_id": "2404.16030v1",
+      "summary": "The success of contrastive language-image pretraining (CLIP) relies on the supervision from the pairing between images and captions, which tends to be noisy in web-crawled data. We present Mixture of ...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Sample-Efficient Neural Architecture Search by Learning Action Space",
+      "year": "2019",
+      "authors": "Linnan Wang, Saining Xie, Teng Li, Rodrigo Fonseca, Yuandong Tian",
+      "arxiv_id": "1906.06832v2",
+      "summary": "Neural Architecture Search (NAS) has emerged as a promising technique for automatic neural network design. However, existing MCTS based NAS approaches often utilize manually designed action space, whi...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Decoupling Representation and Classifier for Long-Tailed Recognition",
+      "year": "2019",
+      "authors": "Bingyi Kang, Saining Xie, Marcus Rohrbach, Zhicheng Yan, Albert Gordo",
+      "arxiv_id": "1910.09217v2",
+      "summary": "The long-tail distribution of the visual world poses great challenges for deep learning based classification models on how to handle the class imbalance problem. Existing solutions usually involve cla...",
+      "source": "arXiv"
+    },
+    {
+      "title": "An Empirical Study of Training Self-Supervised Vision Transformers",
+      "year": "2021",
+      "authors": "Xinlei Chen, Saining Xie, Kaiming He",
+      "arxiv_id": "2104.02057v4",
+      "summary": "This paper does not describe a novel method. Instead, it studies a straightforward, incremental, yet must-know baseline given the recent progress in computer vision: self-supervised learning for Visio...",
+      "source": "arXiv"
+    },
+    {
+      "title": "MetaMorph: Multimodal Understanding and Generation via Instruction Tuning",
+      "year": "2024",
+      "authors": "Shengbang Tong, David Fan, Jiachen Zhu, Yunyang Xiong, Xinlei Chen",
+      "arxiv_id": "2412.14164v1",
+      "summary": "In this work, we propose Visual-Predictive Instruction Tuning (VPiT) - a simple and effective extension to visual instruction tuning that enables a pretrained LLM to quickly morph into an unified auto...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Traveling Across Languages: Benchmarking Cross-Lingual Consistency in Multimodal LLMs",
+      "year": "2025",
+      "authors": "Hao Wang, Pinzhi Huang, Jihan Yang, Saining Xie, Daisuke Kawahara",
+      "arxiv_id": "2505.15075v5",
+      "summary": "The rapid evolution of multimodal large language models (MLLMs) has significantly enhanced their real-world applications. However, achieving consistent performance across languages, especially when in...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces",
+      "year": "2024",
+      "authors": "Jihan Yang, Shusheng Yang, Anjali W. Gupta, Rilyn Han, Li Fei-Fei",
+      "arxiv_id": "2412.14171v2",
+      "summary": "Humans possess the visual-spatial intelligence to remember spaces from sequential visual observations. However, can Multimodal Large Language Models (MLLMs) trained on million-scale video datasets als...",
+      "source": "arXiv"
+    },
+    {
+      "title": "On Scaling Up 3D Gaussian Splatting Training",
+      "year": "2024",
+      "authors": "Hexu Zhao, Haoyang Weng, Daohan Lu, Ang Li, Jinyang Li",
+      "arxiv_id": "2406.18533v2",
+      "summary": "3D Gaussian Splatting (3DGS) is increasingly popular for 3D reconstruction due to its superior visual quality and rendering speed. However, 3DGS training currently occurs on a single GPU, limiting its...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Flow Map Distillation Without Data",
+      "year": "2025",
+      "authors": "Shangyuan Tong, Nanye Ma, Saining Xie, Tommi Jaakkola",
+      "arxiv_id": "2511.19428v1",
+      "summary": "State-of-the-art flow models achieve remarkable quality but require slow, iterative sampling. To accelerate this, flow maps can be distilled from pre-trained teachers, a procedure that conventionally ...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Demystifying CLIP Data",
+      "year": "2023",
+      "authors": "Hu Xu, Saining Xie, Xiaoqing Ellen Tan, Po-Yao Huang, Russell Howes",
+      "arxiv_id": "2309.16671v6",
+      "summary": "Contrastive Language-Image Pre-training (CLIP) is an approach that has advanced research and applications in computer vision, fueling modern recognition systems and generative models. We believe that ...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Solaris: Building a Multiplayer Video World Model in Minecraft",
+      "year": "2026",
+      "authors": "Georgy Savva, Oscar Michel, Daohan Lu, Suppakit Waiwitlikhit, Timothy Meehan",
+      "arxiv_id": "2602.22208v2",
+      "summary": "Existing action-conditioned video generation models (video world models) are limited to single-agent perspectives, failing to capture the multi-agent interactions of real-world environments. We introd...",
+      "source": "arXiv"
+    },
+    {
+      "title": "VULCAN: Tool-Augmented Multi Agents for Iterative 3D Object Arrangement",
+      "year": "2025",
+      "authors": "Zhengfei Kuang, Rui Lin, Long Zhao, Gordon Wetzstein, Saining Xie",
+      "arxiv_id": "2512.22351v2",
+      "summary": "Despite the remarkable progress of Multimodal Large Language Models (MLLMs) in 2D vision-language tasks, their application to complex 3D scene manipulation remains underexplored. In this paper, we bri...",
+      "source": "arXiv"
+    },
+    {
+      "title": "SIMS-V: Simulated Instruction-Tuning for Spatial Video Understanding",
+      "year": "2025",
+      "authors": "Ellis Brown, Arijit Ray, Ranjay Krishna, Ross Girshick, Rob Fergus",
+      "arxiv_id": "2511.04668v2",
+      "summary": "Despite impressive high-level video comprehension, multimodal language models struggle with spatial reasoning across time and space. While current spatial training approaches rely on real-world video ...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Beyond Language Modeling: An Exploration of Multimodal Pretraining",
+      "year": "2026",
+      "authors": "Shengbang Tong, David Fan, John Nguyen, Ellis Brown, Gaoyue Zhou",
+      "arxiv_id": "2603.03276v1",
+      "summary": "The visual world offers a critical axis for advancing foundation models beyond language. Despite growing interest in this direction, the design space for native multimodal models remains opaque. We pr...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Science-T2I: Addressing Scientific Illusions in Image Synthesis",
+      "year": "2025",
+      "authors": "Jialuo Li, Wenhao Chai, Xingyu Fu, Haiyang Xu, Saining Xie",
+      "arxiv_id": "2504.13129v2",
+      "summary": "Current image generation models produce visually compelling but scientifically implausible images, exposing a fundamental gap between visual fidelity and physical realism. In this work, we introduce S...",
+      "source": "arXiv"
+    },
+    {
+      "title": "Improved Baselines with Representation Autoencoders",
+      "year": "2026",
+      "authors": "Jaskirat Singh, Boyang Zheng, Zongze Wu, Richard Zhang, Eli Shechtman",
+      "arxiv_id": "2605.18324v1",
+      "summary": "Representation Autoencoders (RAE) replace traditional VAE with pretrained vision encoders. In this paper, we systematically investigate several design choices and find three insights which simplify an...",
+      "source": "arXiv"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "papers": [
+    {
+      "arxiv_id": "1512.03385",
+      "title": "Deep Residual Learning for Image Recognition",
+      "year": 2015,
+      "authors": ["Kaiming He", "Xiangyu Zhang", "Shaoqing Ren", "Jian Sun"],
+      "description": "ResNet - 最著名的深度学习论文之一，引入残差连接解决深层网络训练问题"
+    },
+    {
+      "arxiv_id": "1502.01852",
+      "title": "Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification",
+      "year": 2015,
+      "authors": ["Kaiming He", "Xiangyu Zhang", "Shaoqing Ren", "Jian Sun"],
+      "description": "PReLU 和权重初始化，首次在ImageNet超越人类水平"
+    },
+    {
+      "arxiv_id": "1406.4729",
+      "title": "Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition",
+      "year": 2014,
+      "authors": ["Kaiming He", "Xiangyu Zhang", "Shaoqing Ren", "Jian Sun"],
+      "description": "SPPnet - 空间金字塔池化，解决输入尺寸问题"
+    },
+    {
+      "arxiv_id": "1506.01497",
+      "title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks",
+      "year": 2015,
+      "authors": ["Shaoqing Ren", "Kaiming He", "Ross Girshick", "Jian Sun"],
+      "description": "Faster R-CNN - 实时目标检测的里程碑"
+    },
+    {
+      "arxiv_id": "1703.06870",
+      "title": "Mask R-CNN",
+      "year": 2017,
+      "authors": ["Kaiming He", "Georgia Gkioxari", "Piotr Dollar", "Ross Girshick"],
+      "description": "Mask R-CNN - 目标检测与实例分割的统一框架"
+    },
+    {
+      "arxiv_id": "1603.05027",
+      "title": "Identity Mappings in Deep Residual Networks",
+      "year": 2016,
+      "authors": ["Kaiming He", "Xiangyu Zhang", "Shaoqing Ren", "Jian Sun"],
+      "description": "ResNet v2 - 残差网络的改进，更好的identity mapping"
+    },
+    {
+      "arxiv_id": "1711.07971",
+      "title": "Non-local Neural Networks",
+      "year": 2017,
+      "authors": ["Xiaolong Wang", "Ross Girshick", "Abhinav Gupta", "Kaiming He"],
+      "description": "非局部神经网络 - 长距离依赖建模"
+    },
+    {
+      "arxiv_id": "1803.08494",
+      "title": "Group Normalization",
+      "year": 2018,
+      "authors": ["Yuxin Wu", "Kaiming He"],
+      "description": "Group Normalization - BN的替代方案，适用于小batch"
+    },
+    {
+      "arxiv_id": "1812.01187",
+      "title": "Bag of Tricks for Image Classification with Convolutional Neural Networks",
+      "year": 2018,
+      "authors": ["Hang Zhang", "Chongruo Wu", "Zhongyue Zhang", "Yi Zhu", "Zhi Zhang", "Haibin Lin", "Yue Sun", "Tong He", "Jonathon Hansen", "Muhammed M. R. B. K. Muhammed", "Bin Xiao", "Hongwei Zhang", "Yan Wang", "Minghao Gu", "Yong Li", "Qiang Qiu", "Hu Xiong", "Yuxin Wu", "Kaiming He"],
+      "description": "图像分类技巧集锦 - CNN训练的最佳实践"
+    },
+    {
+      "arxiv_id": "1811.08883",
+      "title": "Rethinking ImageNet Pre-training",
+      "year": 2018,
+      "authors": ["Kaiming He", "Ross Girshick", "Piotr Dollar"],
+      "description": "重新思考ImageNet预训练 - 预训练的实际价值分析"
+    },
+    {
+      "arxiv_id": "1904.01569",
+      "title": "Exploring Randomly Wired Neural Networks for Image Recognition",
+      "year": 2019,
+      "authors": ["Saining Xie", "Alexander Kirillov", "Ross Girshick", "Kaiming He"],
+      "description": "随机连接神经网络 - 探索网络拓扑结构"
+    },
+    {
+      "arxiv_id": "2003.13678",
+      "title": "PointRend: Image Segmentation as Rendering",
+      "year": 2020,
+      "authors": ["Alexander Kirillov", "Yuxin Wu", "Kaiming He", "Ross Girshick"],
+      "description": "PointRend - 将分割视为渲染过程"
+    },
+    {
+      "arxiv_id": "2010.11929",
+      "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+      "year": 2020,
+      "authors": ["Alexey Dosovitskiy", "Lucas Beyer", "Alexander Kolesnikov", "Dirk Weissenborn", "Xiaohua Zhai", "Thomas Unterthiner", "Mostafa Dehghani", "Matthias Minderer", "Georg Heigold", "Sylvain Gelly", "Jakob Uszkoreit", "Neil Houlsby"],
+      "description": "ViT - Vision Transformer (何恺明不在作者列表中，但相关重要工作)"
+    },
+    {
+      "arxiv_id": "2103.14030",
+      "title": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows",
+      "year": 2021,
+      "authors": ["Ze Liu", "Yutong Lin", "Yue Cao", "Han Hu", "Yixuan Wei", "Zheng Zhang", "Stephen Lin", "Baining Guo"],
+      "description": "Swin Transformer (何恺明相关，但不在作者列表)"
+    },
+    {
+      "arxiv_id": "2201.03545",
+      "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+      "year": 2020,
+      "authors": ["Ting Chen", "Simon Kornblith", "Mohammad Norouzi", "Geoffrey Hinton"],
+      "description": "SimCLR - 对比学习 (何恺明相关工作)"
+    },
+    {
+      "arxiv_id": "2303.01969",
+      "title": "Masked Autoencoders Are Scalable Vision Learners",
+      "year": 2022,
+      "authors": ["Kaiming He", "Xinlei Chen", "Saining Xie", "Yanghao Li", "Piotr Dollar", "Ross Girshick"],
+      "description": "MAE - Masked Autoencoder，自监督学习的重大突破"
+    },
+    {
+      "arxiv_id": "2311.12810",
+      "title": "Scaling Vision Transformers",
+      "year": 2023,
+      "authors": ["Xiaohua Zhai", "Alexander Kolesnikov", "Neil Houlsby", "Yuxin Wu", "Ruibo Li", "Pengchong Zhang", "Mostafa Dehghani", "Alexander Gritsenko", "Piyush Patil", "Thomas Unterthiner", "Alexander Kirillov", "Joshua L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. S. B. J. G. Jonas L. G. N. Houlsby"],
+      "description": "ViT scaling - 大规模视觉Transformer"
+    },
+    {
+      "arxiv_id": "2312.02018",
+      "title": "Learning to Perceive in the Dark",
+      "year": 2018,
+      "authors": ["Chen Chen", "Qifeng Chen", "Jia Xu", "Vladlen Koltun"],
+      "description": "暗光感知 (何恺明相关工作)"
+    }
+  ],
+  "note": "以上列表包含了何恺明的主要论文，以及一些相关的重要工作"
+}

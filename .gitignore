@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Downloaded paper PDFs — large (~1.4GB) and regenerable via download_*.py
+*.pdf

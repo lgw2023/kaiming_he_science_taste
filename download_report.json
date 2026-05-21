@@ -1,0 +1,678 @@
+{
+  "total_papers": 189,
+  "arxiv_papers": 83,
+  "downloaded": 86,
+  "total_size_mb": 1059.2095670700073,
+  "papers": [
+    {
+      "arxiv_id": "1911.05722v3",
+      "title": "Momentum Contrast for Unsupervised Visual Representation Learning",
+      "year": 2020,
+      "citations": 11911,
+      "filename": "1911.05722v3_Momentum-Contrast-for-Unsupervised-Visual-Represen.pdf",
+      "size": 593470
+    },
+    {
+      "arxiv_id": "1611.05431v2",
+      "title": "Aggregated Residual Transformations for Deep Neural Networks",
+      "year": 2017,
+      "citations": 11789,
+      "filename": "1611.05431v2_Aggregated-Residual-Transformations-for-Deep-Neura.pdf",
+      "size": 1334606
+    },
+    {
+      "arxiv_id": "2201.03545v2",
+      "title": "A ConvNet for the 2020s",
+      "year": 2022,
+      "citations": 6858,
+      "filename": "2201.03545v2_A-ConvNet-for-the-2020s.pdf",
+      "size": 751927
+    },
+    {
+      "arxiv_id": "1504.06375v2",
+      "title": "Holistically-Nested Edge Detection",
+      "year": 2015,
+      "citations": 3115,
+      "filename": "1504.06375v2_Holistically-Nested-Edge-Detection.pdf",
+      "size": 2450318
+    },
+    {
+      "arxiv_id": "1712.04851v2",
+      "title": "Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification",
+      "year": 2018,
+      "citations": 1477,
+      "filename": "1712.04851v2_Rethinking-Spatiotemporal-Feature-Learning-Speed-A.pdf",
+      "size": 2891435
+    },
+    {
+      "arxiv_id": "2104.02057v4",
+      "title": "An Empirical Study of Training Self-Supervised Vision Transformers",
+      "year": 2021,
+      "citations": 1437,
+      "filename": "2104.02057v4_An-Empirical-Study-of-Training-Self-Supervised-Vis.pdf",
+      "size": 858131
+    },
+    {
+      "arxiv_id": "2212.09748v2",
+      "title": "Scalable Diffusion Models with Transformers",
+      "year": 2023,
+      "citations": 1362,
+      "filename": "2212.09748v2_Scalable-Diffusion-Models-with-Transformers.pdf",
+      "size": 43824062
+    },
+    {
+      "arxiv_id": "2301.00808v1",
+      "title": "ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders",
+      "year": 2023,
+      "citations": 1263,
+      "filename": "2301.00808v1_ConvNeXt-V2-Co-designing-and-Scaling-ConvNets-with.pdf",
+      "size": 3975229
+    },
+    {
+      "arxiv_id": "1409.5185v2",
+      "title": "Deeply-Supervised Nets",
+      "year": 2014,
+      "citations": 1036,
+      "filename": "1409.5185v2_Deeply-Supervised-Nets.pdf",
+      "size": 795054
+    },
+    {
+      "arxiv_id": "2007.10985v3",
+      "title": "PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding",
+      "year": 2020,
+      "citations": 555,
+      "filename": "2007.10985v3_PointContrast-Unsupervised-Pre-training-for-3D-Poi.pdf",
+      "size": 4054257
+    },
+    {
+      "arxiv_id": "2112.09133v2",
+      "title": "Masked Feature Prediction for Self-Supervised Visual Pre-Training",
+      "year": 2022,
+      "citations": 525,
+      "filename": "2112.09133v2_Masked-Feature-Prediction-for-Self-Supervised-Visu.pdf",
+      "size": 9792028
+    },
+    {
+      "arxiv_id": "1904.01569v2",
+      "title": "Exploring Randomly Wired Neural Networks for Image Recognition",
+      "year": 2019,
+      "citations": 316,
+      "filename": "1904.01569v2_Exploring-Randomly-Wired-Neural-Networks-for-Image.pdf",
+      "size": 2333505
+    },
+    {
+      "arxiv_id": "2004.05565v1",
+      "title": "FBNetV2: Differentiable Neural Architecture Search for Spatial and Channel Dimensions",
+      "year": 2020,
+      "citations": 297,
+      "filename": "2004.05565v1_FBNetV2-Differentiable-Neural-Architecture-Search-.pdf",
+      "size": 519251
+    },
+    {
+      "arxiv_id": "2012.09165v3",
+      "title": "Exploring Data-Efficient 3D Scene Understanding with Contrastive Scene Contexts",
+      "year": 2021,
+      "citations": 255,
+      "filename": "2012.09165v3_Exploring-Data-Efficient-3D-Scene-Understanding-wi.pdf",
+      "size": 5195392
+    },
+    {
+      "arxiv_id": "2112.12750v1",
+      "title": "SLIP: Self-supervision Meets Language-Image Pre-training",
+      "year": 2022,
+      "citations": 231,
+      "filename": "2112.12750v1_SLIP-Self-supervision-Meets-Language-Image-Pre-tra.pdf",
+      "size": 656875
+    },
+    {
+      "arxiv_id": "1910.09217v2",
+      "title": "Decoupling Representation and Classifier for Long-Tailed Recognition",
+      "year": 2019,
+      "citations": 219,
+      "filename": "1910.09217v2_Decoupling-Representation-and-Classifier-for-Long-.pdf",
+      "size": 757521
+    },
+    {
+      "arxiv_id": "2111.06377v3",
+      "title": "Masked Autoencoders Are Scalable Vision Learners",
+      "year": 2021,
+      "citations": 194,
+      "filename": "2111.06377v3_Masked-Autoencoders-Are-Scalable-Vision-Learners.pdf",
+      "size": 7445748
+    },
+    {
+      "arxiv_id": "2401.06209v2",
+      "title": "Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs",
+      "year": 2024,
+      "citations": 115,
+      "filename": "2401.06209v2_Eyes-Wide-Shut-Exploring-the-Visual-Shortcomings-o.pdf",
+      "size": 2615753
+    },
+    {
+      "arxiv_id": "2111.11429v1",
+      "title": "Benchmarking Detection Transfer Learning with Vision Transformers",
+      "year": 2021,
+      "citations": 75,
+      "filename": "2111.11429v1_Benchmarking-Detection-Transfer-Learning-with-Visi.pdf",
+      "size": 519733
+    },
+    {
+      "arxiv_id": "2003.12056v2",
+      "title": "Are Labels Necessary for Neural Architecture Search?",
+      "year": "2020",
+      "citations": 65,
+      "filename": "2003.12056v2_Are-Labels-Necessary-for-Neural-Architecture-Searc.pdf",
+      "size": 1315976
+    },
+    {
+      "arxiv_id": "2305.11173v1",
+      "title": "Going Denser with Open-Vocabulary Part Segmentation",
+      "year": 2023,
+      "citations": 43,
+      "filename": "2305.11173v1_Going-Denser-with-Open-Vocabulary-Part-Segmentatio.pdf",
+      "size": 6924214
+    },
+    {
+      "arxiv_id": "1906.06832v2",
+      "title": "Sample-Efficient Neural Architecture Search by Learning Action Space",
+      "year": 2019,
+      "citations": 37,
+      "filename": "1906.06832v2_Sample-Efficient-Neural-Architecture-Search-by-Lea.pdf",
+      "size": 4841021
+    },
+    {
+      "arxiv_id": "1511.07409v2",
+      "title": "Top-Down Learning for Structured Labeling with Convolutional Pseudoprior",
+      "year": 2016,
+      "citations": 37,
+      "filename": "1511.07409v2_Top-Down-Learning-for-Structured-Labeling-with-Con.pdf",
+      "size": 1218465
+    },
+    {
+      "arxiv_id": "2312.14135v2",
+      "title": "V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs",
+      "year": 2024,
+      "citations": 33,
+      "filename": "2312.14135v2_V-Guided-Visual-Search-as-a-Core-Mechanism-in-Mult.pdf",
+      "size": 5324146
+    },
+    {
+      "arxiv_id": "2412.14171v2",
+      "title": "Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces",
+      "year": 2025,
+      "citations": 25,
+      "filename": "2412.14171v2_Thinking-in-Space-How-Multimodal-Large-Language-Mo.pdf",
+      "size": 10415386
+    },
+    {
+      "arxiv_id": "2309.16671v6",
+      "title": "Demystifying CLIP Data",
+      "year": 2023,
+      "citations": 22,
+      "filename": "2309.16671v6_Demystifying-CLIP-Data.pdf",
+      "size": 508978
+    },
+    {
+      "arxiv_id": "2401.14404v1",
+      "title": "Deconstructing Denoising Diffusion Models for Self-Supervised Learning",
+      "year": 2024,
+      "citations": 17,
+      "filename": "2401.14404v1_Deconstructing-Denoising-Diffusion-Models-for-Self.pdf",
+      "size": 8910626
+    },
+    {
+      "arxiv_id": "2401.01702v1",
+      "title": "Image Sculpting: Precise Object Editing with 3D Geometry Control",
+      "year": 2024,
+      "citations": 16,
+      "filename": "2401.01702v1_Image-Sculpting-Precise-Object-Editing-with-3D-Geo.pdf",
+      "size": 44805874
+    },
+    {
+      "arxiv_id": "1905.13214v1",
+      "title": "On Network Design Spaces for Visual Recognition",
+      "year": 2019,
+      "citations": 15,
+      "filename": "1905.13214v1_On-Network-Design-Spaces-for-Visual-Recognition.pdf",
+      "size": 9863461
+    },
+    {
+      "arxiv_id": "2406.18533v2",
+      "title": "On Scaling Up 3D Gaussian Splatting Training",
+      "year": 2025,
+      "citations": 13,
+      "filename": "2406.18533v2_On-Scaling-Up-3D-Gaussian-Splatting-Training.pdf",
+      "size": 29235826
+    },
+    {
+      "arxiv_id": "2406.16860v2",
+      "title": "Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs",
+      "year": 2024,
+      "citations": 12,
+      "filename": "2406.16860v2_Cambrian-1-A-Fully-Open-Vision-Centric-Exploration.pdf",
+      "size": 6427380
+    },
+    {
+      "arxiv_id": "2301.02241v1",
+      "title": "CiT: Curation in Training for Effective Vision-Language Data",
+      "year": 2023,
+      "citations": 10,
+      "filename": "2301.02241v1_CiT-Curation-in-Training-for-Effective-Vision-Lang.pdf",
+      "size": 524488
+    },
+    {
+      "arxiv_id": "2102.11273v2",
+      "title": "On Interaction Between Augmentations and Corruptions in Natural Corruption Robustness",
+      "year": 2021,
+      "citations": 10,
+      "filename": "2102.11273v2_On-Interaction-Between-Augmentations-and-Corruptio.pdf",
+      "size": 7860447
+    },
+    {
+      "arxiv_id": "2404.16030v1",
+      "title": "MoDE: CLIP Data Experts via Clustering",
+      "year": 2024,
+      "citations": 8,
+      "filename": "2404.16030v1_MoDE-CLIP-Data-Experts-via-Clustering.pdf",
+      "size": 1396087
+    },
+    {
+      "arxiv_id": "2405.10292v3",
+      "title": "Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning",
+      "year": 2024,
+      "citations": 8,
+      "filename": "2405.10292v3_Fine-Tuning-Large-Vision-Language-Models-as-Decisi.pdf",
+      "size": 4132132
+    },
+    {
+      "arxiv_id": "2501.17161v2",
+      "title": "SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training",
+      "year": 2025,
+      "citations": 7,
+      "filename": "2501.17161v2_SFT-Memorizes-RL-Generalizes-A-Comparative-Study-o.pdf",
+      "size": 4755857
+    },
+    {
+      "arxiv_id": "2210.07224v1",
+      "title": "Exploring Long-Sequence Masked Autoencoders",
+      "year": 2022,
+      "citations": 7,
+      "filename": "2210.07224v1_Exploring-Long-Sequence-Masked-Autoencoders.pdf",
+      "size": 769383
+    },
+    {
+      "arxiv_id": "2112.13884v2",
+      "title": "A Fistful of Words: Learning Transferable Visual Models from Bag-of-Words Supervision",
+      "year": 2021,
+      "citations": 7,
+      "filename": "2112.13884v2_A-Fistful-of-Words-Learning-Transferable-Visual-Mo.pdf",
+      "size": 3693507
+    },
+    {
+      "arxiv_id": "2410.06940v4",
+      "title": "Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think",
+      "year": 2024,
+      "citations": 4,
+      "filename": "2410.06940v4_Representation-Alignment-for-Generation-Training-D.pdf",
+      "size": 34940112
+    },
+    {
+      "arxiv_id": "2501.09732v1",
+      "title": "Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps",
+      "year": 2025,
+      "citations": 3,
+      "filename": "2501.09732v1_Inference-Time-Scaling-for-Diffusion-Models-beyond.pdf",
+      "size": 32837617
+    },
+    {
+      "arxiv_id": "2410.17251v3",
+      "title": "Altogether: Image Captioning via Re-aligning Alt-text",
+      "year": 2024,
+      "citations": 3,
+      "filename": "2410.17251v3_Altogether-Image-Captioning-via-Re-aligning-Alt-te.pdf",
+      "size": 3673274
+    },
+    {
+      "arxiv_id": "2401.08740v2",
+      "title": "SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers",
+      "year": 2024,
+      "citations": 3,
+      "filename": "2401.08740v2_SiT-Exploring-Flow-and-Diffusion-based-Generative-.pdf",
+      "size": 18937524
+    },
+    {
+      "arxiv_id": "2104.11225v3",
+      "title": "Pri3D: Can 3D Priors Help 2D Representation Learning?",
+      "year": "2021",
+      "citations": 3,
+      "filename": "2104.11225v3_Pri3D-Can-3D-Priors-Help-2D-Representation-Learnin.pdf",
+      "size": 5131538
+    },
+    {
+      "arxiv_id": "2511.04951v1",
+      "title": "CLM: Removing the GPU Memory Barrier for 3D Gaussian Splatting",
+      "year": 2026,
+      "citations": 1,
+      "filename": "2511.04951v1_CLM-Removing-the-GPU-Memory-Barrier-for-3D-Gaussia.pdf",
+      "size": 3410523
+    },
+    {
+      "arxiv_id": "2412.14164v1",
+      "title": "MetaMorph: Multimodal Understanding and Generation via Instruction Tuning",
+      "year": 2025,
+      "citations": 1,
+      "filename": "2412.14164v1_MetaMorph-Multimodal-Understanding-and-Generation-.pdf",
+      "size": 1657890
+    },
+    {
+      "arxiv_id": "2505.10046v1",
+      "title": "Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis",
+      "year": 2025,
+      "citations": 1,
+      "filename": "2505.10046v1_Exploring-the-Deep-Fusion-of-Large-Language-Models.pdf",
+      "size": 1342647
+    },
+    {
+      "arxiv_id": "2504.13129v2",
+      "title": "Science-T2I: Addressing Scientific Illusions in Image Synthesis",
+      "year": 2025,
+      "citations": 1,
+      "filename": "2504.13129v2_Science-T2I-Addressing-Scientific-Illusions-in-Ima.pdf",
+      "size": 19819607
+    },
+    {
+      "arxiv_id": "2402.03310v3",
+      "title": "V-IRL: Grounding Virtual Intelligence in Real Life",
+      "year": 2024,
+      "citations": 1,
+      "filename": "2402.03310v3_V-IRL-Grounding-Virtual-Intelligence-in-Real-Life.pdf",
+      "size": 26558653
+    },
+    {
+      "arxiv_id": "2601.09881v1",
+      "title": "Transition Matching Distillation for Fast Video Generation",
+      "year": 2026,
+      "citations": 0,
+      "filename": "2601.09881v1_Transition-Matching-Distillation-for-Fast-Video-Ge.pdf",
+      "size": 18822225
+    },
+    {
+      "arxiv_id": "2601.16208v1",
+      "title": "Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders",
+      "year": 2026,
+      "citations": 0,
+      "filename": "2601.16208v1_Scaling-Text-to-Image-Diffusion-Transformers-with-.pdf",
+      "size": 11384363
+    },
+    {
+      "arxiv_id": "2602.22208v2",
+      "title": "Solaris: Building a Multiplayer Video World Model in Minecraft",
+      "year": 2026,
+      "citations": 0,
+      "filename": "2602.22208v2_Solaris-Building-a-Multiplayer-Video-World-Model-i.pdf",
+      "size": 12538288
+    },
+    {
+      "arxiv_id": "2601.18577v1",
+      "title": "Self-Refining Video Sampling",
+      "year": "2026",
+      "citations": 0,
+      "filename": "2601.18577v1_Self-Refining-Video-Sampling.pdf",
+      "size": 22439694
+    },
+    {
+      "arxiv_id": "2603.22275v1",
+      "title": "Repurposing Geometric Foundation Models for Multi-view Diffusion",
+      "year": "2026",
+      "citations": 0,
+      "filename": "2603.22275v1_Repurposing-Geometric-Foundation-Models-for-Multi-.pdf",
+      "size": 46243347
+    },
+    {
+      "arxiv_id": "2604.20329v2",
+      "title": "Image Generators are Generalist Vision Learners",
+      "year": "2026",
+      "citations": 0,
+      "filename": "2604.20329v2_Image-Generators-are-Generalist-Vision-Learners.pdf",
+      "size": 38583452
+    },
+    {
+      "arxiv_id": "2603.03276v1",
+      "title": "Beyond Language Modeling: An Exploration of Multimodal Pretraining",
+      "year": "2026",
+      "citations": 0,
+      "filename": "2603.03276v1_Beyond-Language-Modeling-An-Exploration-of-Multimo.pdf",
+      "size": 13102043
+    },
+    {
+      "arxiv_id": "2605.18324v1",
+      "title": "Improved Baselines with Representation Autoencoders",
+      "year": "2026",
+      "citations": 0,
+      "filename": "2605.18324v1_Improved-Baselines-with-Representation-Autoencoder.pdf",
+      "size": 32230280
+    },
+    {
+      "arxiv_id": "2506.11928v1",
+      "title": "LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?",
+      "year": "2025",
+      "citations": 0,
+      "filename": "2506.11928v1_LiveCodeBench-Pro-How-Do-Olympiad-Medalists-Judge-.pdf",
+      "size": 729099
+    },
+    {
+      "arxiv_id": "2512.10794v1",
+      "title": "What matters for Representation Alignment: Global Information or Spatial Structure?",
+      "year": "2025",
+      "citations": 0,
+      "filename": "2512.10794v1_What-matters-for-Representation-Alignment-Global-I.pdf",
+      "size": 37600425
+    },
+    {
+      "arxiv_id": "2505.09568v1",
+      "title": "BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset",
+      "year": 2025,
+      "citations": 0,
+      "filename": "2505.09568v1_BLIP3-o-A-Family-of-Fully-Open-Unified-Multimodal-.pdf",
+      "size": 3557005
+    },
+    {
+      "arxiv_id": "2503.09595v1",
+      "title": "PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop",
+      "year": 2025,
+      "citations": 0,
+      "filename": "2503.09595v1_PISA-Experiments-Exploring-Physics-Post-Training-f.pdf",
+      "size": 33188839
+    },
+    {
+      "arxiv_id": "2504.10483v3",
+      "title": "REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers",
+      "year": 2025,
+      "citations": 0,
+      "filename": "2504.10483v3_REPA-E-Unlocking-VAE-for-End-to-End-Tuning-with-La.pdf",
+      "size": 2761147
+    },
+    {
+      "arxiv_id": "2506.21458v2",
+      "title": "MindCube: Spatial Mental Modeling from Limited Views",
+      "year": 2025,
+      "citations": 0,
+      "filename": "2506.21458v2_MindCube-Spatial-Mental-Modeling-from-Limited-View.pdf",
+      "size": 39393441
+    },
+    {
+      "arxiv_id": "2511.04655v1",
+      "title": "Benchmark Designers Should \"Train on the Test Set\" to Expose Exploitable Non-Visual Shortcuts",
+      "year": 2025,
+      "citations": 0,
+      "filename": "2511.04655v1_Benchmark-Designers-Should-Train-on-the-Test-Set-t.pdf",
+      "size": 10015469
+    },
+    {
+      "arxiv_id": "2511.04670v1",
+      "title": "Cambrian-S: Towards Spatial Supersensing in Video",
+      "year": 2025,
+      "citations": 0,
+      "filename": "2511.04670v1_Cambrian-S-Towards-Spatial-Supersensing-in-Video.pdf",
+      "size": 43620044
+    },
+    {
+      "arxiv_id": "2511.04668v2",
+      "title": "SIMS-V: Simulated Instruction-Tuning for Spatial Video Understanding",
+      "year": 2025,
+      "citations": 0,
+      "filename": "2511.04668v2_SIMS-V-Simulated-Instruction-Tuning-for-Spatial-Vi.pdf",
+      "size": 2090728
+    },
+    {
+      "arxiv_id": "2507.22062v3",
+      "title": "Meta CLIP 2: A Worldwide Scaling Recipe",
+      "year": 2025,
+      "citations": 0,
+      "filename": "2507.22062v3_Meta-CLIP-2-A-Worldwide-Scaling-Recipe.pdf",
+      "size": 1526740
+    },
+    {
+      "arxiv_id": "2511.20906v1",
+      "title": "Dynamic Test-Time Compute Scaling in Control Policy: Difficulty-Aware Stochastic Interpolant Policy",
+      "year": 2025,
+      "citations": 0,
+      "filename": "2511.20906v1_Dynamic-Test-Time-Compute-Scaling-in-Control-Polic.pdf",
+      "size": 5530820
+    },
+    {
+      "arxiv_id": "2511.20351v2",
+      "title": "Thinking in 360°: Humanoid Visual Search in the Wild",
+      "year": 2025,
+      "citations": 0,
+      "filename": "2511.20351v2_Thinking-in-360-Humanoid-Visual-Search-in-the-Wild.pdf",
+      "size": 48411165
+    },
+    {
+      "arxiv_id": "2512.22351v2",
+      "title": "VULCAN: Tool-Augmented Multi Agents for Iterative 3D Object Arrangement",
+      "year": 2025,
+      "citations": 0,
+      "filename": "2512.22351v2_VULCAN-Tool-Augmented-Multi-Agents-for-Iterative-3.pdf",
+      "size": 15234717
+    },
+    {
+      "arxiv_id": "2510.11690v1",
+      "title": "Diffusion Transformers with Representation Autoencoders",
+      "year": "2025",
+      "citations": 0,
+      "filename": "2510.11690v1_Diffusion-Transformers-with-Representation-Autoenc.pdf",
+      "size": 16469799
+    },
+    {
+      "arxiv_id": "2504.01017v1",
+      "title": "Scaling Language-Free Visual Representation Learning",
+      "year": "2025",
+      "citations": 0,
+      "filename": "2504.01017v1_Scaling-Language-Free-Visual-Representation-Learni.pdf",
+      "size": 1143951
+    },
+    {
+      "arxiv_id": "2504.06256v1",
+      "title": "Transfer between Modalities with MetaQueries",
+      "year": "2025",
+      "citations": 0,
+      "filename": "2504.06256v1_Transfer-between-Modalities-with-MetaQueries.pdf",
+      "size": 12360503
+    },
+    {
+      "arxiv_id": "2512.16922v2",
+      "title": "Next-Embedding Prediction Makes Strong Vision Learners",
+      "year": "2025",
+      "citations": 0,
+      "filename": "2512.16922v2_Next-Embedding-Prediction-Makes-Strong-Vision-Lear.pdf",
+      "size": 28340885
+    },
+    {
+      "arxiv_id": "2506.17450v2",
+      "title": "BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing",
+      "year": "2025",
+      "citations": 0,
+      "filename": "2506.17450v2_BlenderFusion-3D-Grounded-Visual-Editing-and-Gener.pdf",
+      "size": 16139917
+    },
+    {
+      "arxiv_id": "2509.25603v1",
+      "title": "GaussianLens: Localized High-Resolution Reconstruction via On-Demand Gaussian Densification",
+      "year": "2025",
+      "citations": 0,
+      "filename": "2509.25603v1_GaussianLens-Localized-High-Resolution-Reconstruct.pdf",
+      "size": 26414585
+    },
+    {
+      "arxiv_id": "2512.15699v1",
+      "title": "FrontierCS: Evolving Challenges for Evolving Intelligence",
+      "year": "2025",
+      "citations": 0,
+      "filename": "2512.15699v1_FrontierCS-Evolving-Challenges-for-Evolving-Intell.pdf",
+      "size": 9245495
+    },
+    {
+      "arxiv_id": "2511.19428v1",
+      "title": "Flow Map Distillation Without Data",
+      "year": "2025",
+      "citations": 0,
+      "filename": "2511.19428v1_Flow-Map-Distillation-Without-Data.pdf",
+      "size": 10313728
+    },
+    {
+      "arxiv_id": "2409.19429",
+      "filename": "2409.19429_Fast-Encoding-and-Decoding-for-Implicit-Video-Repr.pdf",
+      "size": 7164765,
+      "directory": "saining_xie_papers"
+    },
+    {
+      "arxiv_id": "2506.11928",
+      "filename": "2506.11928_LiveCodeBench-Pro-How-Do-Olympiad-Medalists-Judge-.pdf",
+      "size": 729099,
+      "directory": "saining_xie_papers"
+    },
+    {
+      "arxiv_id": "2506.17450",
+      "filename": "2506.17450_BlenderFusion-3D-Grounded-Visual-Editing-and-Gener.pdf",
+      "size": 16139917,
+      "directory": "saining_xie_papers"
+    },
+    {
+      "arxiv_id": "2512.15699",
+      "filename": "2512.15699_FrontierCS-Evolving-Challenges-for-Evolving-Intell.pdf",
+      "size": 9245495,
+      "directory": "saining_xie_papers"
+    },
+    {
+      "arxiv_id": "2410.03051",
+      "filename": "2410.03051_AuroraCap-Efficient-Performant-Video-Detailed-Capt.pdf",
+      "size": 15119392,
+      "directory": "saining_xie_papers"
+    },
+    {
+      "arxiv_id": "2512.16922",
+      "filename": "2512.16922_Next-Embedding-Prediction-Makes-Strong-Vision-Lear.pdf",
+      "size": 28340885,
+      "directory": "saining_xie_papers"
+    },
+    {
+      "arxiv_id": "2406.18533",
+      "filename": "2406.18533_On-Scaling-Up-3D-Gaussian-Splatting-Training.pdf",
+      "size": 29235826,
+      "directory": "saining_xie_papers"
+    },
+    {
+      "arxiv_id": "2501.09732",
+      "filename": "2501.09732_Inference-Time-Scaling-for-Diffusion-Models-beyond.pdf",
+      "size": 32837617,
+      "directory": "saining_xie_papers"
+    },
+    {
+      "arxiv_id": "2504.13129",
+      "filename": "2504.13129_Science-T2I-Addressing-Scientific-Illusions-in-Ima.pdf",
+      "size": 19819607,
+      "directory": "saining_xie_papers"
+    }
+  ]
+}
