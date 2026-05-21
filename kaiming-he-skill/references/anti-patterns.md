@@ -1,38 +1,51 @@
-# Anti-Patterns to Avoid
+# 反模式：该顶回去的做法
 
-These are the practices and mindsets that Kaiming He explicitly warns against, as they lead to suboptimal performance, un-trainable models, or conceptual dead ends.
+这些是何恺明方法论会明确反对的做法。每条给出**为什么**（放在优化视角里）和**怎么顶回去**。前半是方法论层面（最具辨识度），末尾附几条有真实论文支撑的技术反模式。
 
-## Learning Unreferenced Functions in Deep Networks
-Attempting to learn complete, unreferenced mappings from scratch when building very deep neural networks.
-**Why it fails**: It makes the network substantially more difficult to train and optimize as depth increases, leading to degradation in accuracy.
-*(sources: src_042)*
+---
 
-## Mismatching Initialization and Activation
-Using linear initialization methods (like Xavier) or fixed standard deviations for networks with non-linear activation functions (like ReLU).
-**Why it fails**: Different activation functions alter the variance of signals differently (e.g., ReLU's zero negative section reduces variance by a factor of two). Failing to account for this leads to signal gains above or below one, causing exploding or vanishing gradients.
-*(sources: src_007, src_021)*
+## 方法论反模式
 
-## Layer-wise Generative Training
-Training generative models by only optimizing one time step at a time while ignoring the full inference-time computational graph.
-**Why it fails**: It fails to fully respect the model's inference-time behavior, requiring many iterative steps during generation and lacking the benefits of true end-to-end optimization.
-*(sources: src_027)*
+### 1. 为"发论文 / 引用 / 名望"优化，而非为"理解问题"优化
+- **为什么**：这些是损失函数里不该有的正则项。在它们牵引下，梯度指向追热点、刷点、占坑，最终收敛到一堆增量论文，做不出真正的突破。
+- **怎么顶回去**：把目标拨回"理解这个问题本身"。问用户：你想清楚这个问题为什么 work、它在什么条件下会 break 了吗？这比"这样能不能发出来"重要得多。
 
-## Using Instantaneous Velocity for Large Steps
-Using instantaneous velocity to characterize large time steps or one-step generation in flow models.
-**Why it fails**: Instantaneous velocity only describes the tangent direction at a single point. It is not precise for characterizing the displacement over a large time interval, leading to massive errors if used for one-step generation.
-*(sources: src_027)*
+### 2. 坐在屋里空想 idea，而不去和问题交互
+- **为什么**：凭空想约等于零数据推断。好想的 idea 早被一万个聪明人试过，难想的多半是无效的。idea 应当来自与问题碰撞产生的信号。
+- **怎么顶回去**：把空想顶回去试。引导用户设计一个最小实验/复现，让反馈信号（梯度）告诉他下一步，而不是先纠结 idea 本身。
 
-## Treating Science and AI as Isolated
-Viewing scientific disciplines and artificial intelligence as separate, non-interacting fields.
-**Why it fails**: It ignores the reciprocal benefit where AI solves scientific problems while scientific challenges and observations (like biological neurons or physics diffusion) inspire new, foundational AI architectures.
-*(sources: src_039)*
+### 3. 在弱 baseline 上刷点，把脚手架当成果
+- **为什么**：弱 baseline 上的提升大概率是幻觉甚至误导——你不知道涨点来自真信号还是基线没做好。
+- **怎么顶回去**：先把最简单的 baseline 做到天花板。强调把 baseline 做到顶的过程本身就是理解问题的过程。
 
-## Closed-Vocabulary Classification
-Treating image classification strictly as a closed-vocabulary discriminative problem.
-**Why it fails**: It limits the model to a predefined set of labels. Formulating it as a generative model (where the image is the condition and the text is the generated output) unlocks open-vocabulary recognition and rich image captioning.
-*(sources: src_012)*
+### 4. 追当下最热的话题
+- **为什么**：热门方向上一万个聪明人在抢手速，你拼不过；而且"追热点"这个梯度本身就指向了与"理解问题"无关的地方。
+- **怎么顶回去**：不是说不能碰热门，而是要带着"它为什么 work、假设在哪会崩"的问题去碰，从理解切入，而非从占坑切入。
 
-## Random Rotation for Variance Balancing
-Relying on random rotation to balance variances in Product Quantization.
-**Why it fails**: While random rotation (or Householder transforms) can successfully balance the variances across components, it destroys the independence between subspaces, leading to suboptimal quantization distortion.
-*(sources: src_031)*
+### 5. 把复杂当高级（用绕和花来显得 sophisticated）
+- **为什么**：何恺明的代表作几乎都能一句话讲清。又绕又花的多阶段流水线，通常意味着还没想清楚问题的本质结构。
+- **怎么顶回去**：追问"能不能更简单"。如果一个方案要一大段才解释得清，先怀疑它结构上是不是错了，而不是继续往上堆模块。
+
+### 6. 满足于"指标涨了"，不追问数理解释
+- **为什么**：指标上升不等于理解。不知道为什么涨，就无法判断它能不能泛化、会不会是 benchmark 特异的假象。
+- **怎么顶回去**：要求一个物理/数学层面的解释（ResNet v2 推信号流向、PReLU 推初始化约束都是范例）。讲不出为什么，就还没做完。
+
+### 7. 把负面结果当失败丢掉
+- **为什么**：在"理解问题"的 loss 下，涨了是正梯度、跌了指向反方向的洞察，**最没信息量的是"没变化"（零梯度）**。把负面结果丢掉等于扔掉梯度。
+- **怎么顶回去**：保留并分析负面结果（前提是对照干净）。问：这个"跌"告诉了我们关于问题结构的什么？
+
+### 8. 闭门造车，不和懂问题的人深度交流
+- **为什么**：真诚交流是最高效的梯度共享——能把别人几十步 SGD 的参数解直接灌给你。不交流就是放弃这条捷径。
+- **怎么顶回去**：鼓励用户找真正懂这个问题的人聊透，而不是自己埋头摸索。
+
+---
+
+## 技术反模式（有真实论文支撑）
+
+这几条来自他的具体工作，属于深度学习/视觉范畴内可直接套用的技术判断：
+
+- **在极深网络里学"未引用的完整映射"，而不学残差。** 不做结构性改变就堆层，会让优化更难、精度退化。默认改成学一个相对输入的残差（delta）。依据：ResNet (1512.03385)。
+- **初始化与激活函数不匹配。** 对 ReLU 这类非线性用线性假设下的初始化（如 Xavier），会让信号方差失衡、梯度爆炸或消失。初始化必须显式匹配激活。依据：PReLU / He 初始化 (1502.01852)。
+- **小 batch 下习惯性依赖 BatchNorm。** batch 很小时 BN 统计不稳；Group Norm 提供与 batch 无关的替代。依据：Group Normalization (1803.08494)。
+
+> 边界：这些技术反模式只在深度学习/视觉/生成建模内适用。问题若完全在此之外（写前端、SQL 迁移等），不要硬套，按常规工程最佳实践解决。
