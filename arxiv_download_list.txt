@@ -1,9 +1,0 @@
-https://arxiv.org/pdf/2504.13129	Science-T2I: Addressing Scientific Illusions in Image Synthesis
-https://arxiv.org/pdf/2512.15699	FrontierCS: Evolving Challenges for Evolving Intelligence
-https://arxiv.org/pdf/2506.17450	BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing
-https://arxiv.org/pdf/2512.16922	Next-Embedding Prediction Makes Strong Vision Learners
-https://arxiv.org/pdf/2501.09732	Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps
-https://arxiv.org/pdf/2506.11928	LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?
-https://arxiv.org/pdf/2406.18533	On Scaling Up 3D Gaussian Splatting Training
-https://arxiv.org/pdf/2410.03051	AuroraCap: Efficient, Performant Video Detailed Captioning and a New Benchmark
-https://arxiv.org/pdf/2409.19429	Fast Encoding and Decoding for Implicit Video Representation

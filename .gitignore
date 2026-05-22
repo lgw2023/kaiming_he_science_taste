@@ -1,5 +1,17 @@
 # macOS
 .DS_Store
 
+# Claude local settings
+.claude/settings.local.json
+
 # Downloaded paper PDFs — large (~1.4GB) and regenerable via download_*.py
 *.pdf
+
+# Corpus-building tooling and data (kept locally, not published)
+/*.py
+/*.json
+/*.txt
+/search1.png
+/何恺明科研方法论：如何训练你的Research_Taste.md
+/如何训练你的Research_Taste_从何恺明的方法论谈起.md
+/搜索结果_何恺明方法论相关文章.md
