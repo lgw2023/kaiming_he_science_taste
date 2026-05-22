@@ -1,5 +1,7 @@
 # 语料来源
 
+> **衍生与致谢**：本 skill 是第三方开源 skill **K-Dense-AI / mimeographs 的 kaiming-he**（<https://lobehub.com/zh/skills/k-dense-ai-mimeographs-kaiming-he>）的**升级修改版本**。原版以人物百科 / 履历 / 第三方复述为主要语料（被剔除部分见下文第三节）；本版完整重写，改以下列一手来源与何恺明本人作品为据。
+
 本 skill 的内容来自下面这些来源。分两层：**方法论一手来源**（决定"怎么做研究"那部分）和**何恺明本人作品**（决定"战绩为证"那部分）。本地路径相对项目根目录 `kaiming_he_science_taste/`。
 
 ---
